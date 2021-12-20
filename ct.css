@@ -91,15 +91,13 @@ div ul {
 }
 div li{
   background: #cce5ff;
-  margin-left: 50px;
-margin-right: 50px;
+  margin: 0 auto;
 padding: 5px;
 }
 .container .prof{
     width: 30%;
  
-  margin-left: auto;
-  margin-right: auto;
+ margin: 0 auto;
   
 }
 .prof img{
@@ -123,8 +121,7 @@ padding: 5px;
     color:white;
 }
 .container .awards{
-     margin-left: auto;
-  margin-right: auto;
+   margin: 0 auto;
   width: 80%;
     
 }
@@ -142,8 +139,7 @@ img{
         flex-wrap: wrap;
     }
     .pr .pc{
-         margin-left: auto;
-  margin-right: auto;
+        margin: 0 auto;
   
         width: 80%;
         padding: 5px;
